@@ -1,0 +1,17 @@
+{
+  "name": "fun-fun-function",
+  "version": "1.0.0",
+  "description": "Javascript functional programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nuruzzaman Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
